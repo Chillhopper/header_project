@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1641656391 source:c:\users\kaush\onedrive\desktop\c# stuff\headerproject\puddingfunc.cpp
+	<iostream>
+	"puddingHeader.h"
+
+1641656391 source:c:\users\kaush\onedrive\desktop\c# stuff\headerproject\main.cpp
+	<iostream>
+	"puddingHeader.h"
+
+1641656413 c:\users\kaush\onedrive\desktop\c# stuff\headerproject\puddingheader.h
+
